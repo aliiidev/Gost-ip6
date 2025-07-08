@@ -129,7 +129,7 @@ else
         echo $'\e[32mInstalling the latest Gost version 3.x, please wait...\e[0m'
         
         # Use the direct download link for Gost 3.0.0
-        download_url="https://github.com/go-gost/gost/releases/download/v3.0.0/gost_3.0.0_linux_amd64.tar.gz"
+        download_url="http://185.113.9.22/gost/gost_3.0.0_linux_amd64.tar.gz"
 
         # Download the file to /tmp and check if it was downloaded correctly
         echo $'\e[32mDownloading Gost 3.0.0...\e[0m'
